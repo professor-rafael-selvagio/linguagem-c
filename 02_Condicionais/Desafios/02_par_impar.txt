@@ -1,0 +1,3 @@
+DESAFIO 02 – Par ou Ímpar
+
+Peça um número inteiro e informe se ele é par ou ímpar.

@@ -1,0 +1,7 @@
+DESAFIO 01 – Cadastro Simples
+
+Peça ao usuário: - Nome - Idade - Altura
+
+Exiba os dados formatados na tela.
+
+Conceitos trabalhados: - char - int - float - scanf - printf

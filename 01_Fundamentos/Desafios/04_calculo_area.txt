@@ -1,0 +1,9 @@
+DESAFIO 04 – Cálculo de Área
+
+Peça: - Base - Altura
+
+Calcule a área de um retângulo: area = base * altura
+
+Exiba o resultado formatado.
+
+Conceitos trabalhados: - float - Operações matemáticas

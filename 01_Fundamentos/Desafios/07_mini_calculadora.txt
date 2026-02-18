@@ -1,0 +1,7 @@
+DESAFIO 07 – Mini Calculadora
+
+Peça dois números e mostre: - Soma - Subtração - Multiplicação - Divisão
+
+Mostre a divisão com duas casas decimais.
+
+Conceitos trabalhados: - Operadores aritméticos - Tipos de dados

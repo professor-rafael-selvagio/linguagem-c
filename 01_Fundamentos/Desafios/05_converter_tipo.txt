@@ -1,0 +1,6 @@
+DESAFIO 05 – Conversão de Tipo
+
+Peça um número decimal e: - Mostre o valor original - Mostre o valor
+convertido para inteiro
+
+Conceitos trabalhados: - Cast (int) - Truncamento

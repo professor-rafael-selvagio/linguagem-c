@@ -1,0 +1,9 @@
+DESAFIO 03 – Conversão de Temperatura
+
+Peça a temperatura em Celsius e converta para Fahrenheit.
+
+Fórmula: F = (C * 9/5) + 32
+
+Exiba o resultado com duas casas decimais.
+
+Conceitos trabalhados: - Operações com float - Fórmulas matemáticas

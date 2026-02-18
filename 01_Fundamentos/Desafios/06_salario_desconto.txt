@@ -1,0 +1,7 @@
+DESAFIO 06 – Salário com Desconto
+
+Peça: - Salário bruto - Percentual de desconto
+
+Calcule: - Valor do desconto - Salário líquido
+
+Conceitos trabalhados: - Porcentagem - Operações com float

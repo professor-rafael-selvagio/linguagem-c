@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 Lógica Básica em C
 
 Repositório dedicado ao ensino de lógica de programação utilizando a linguagem C. O conteúdo foi organizado de forma progressiva, com exemplos práticos e exercícios que ajudam no desenvolvimento do raciocínio lógico e na compreensão da programação estruturada.
@@ -103,3 +104,7 @@ Interessados em aprender lógica de programação
 🚀 Contribuição
 
 Sinta-se à vontade para sugerir melhorias, abrir issues ou enviar pull requests.
+=======
+# linguagem-c
+Repositório dedicado ao ensino de lógica de programação utilizando a linguagem C. Contém exemplos progressivos, exercícios práticos e explicações sobre variáveis, operadores, estruturas condicionais e de repetição. Ideal para iniciantes que desejam desenvolver raciocínio lógico e base sólida em programação estruturada.
+>>>>>>> a13aaf454bc0433b4be363b7c21296c0ee30e77d

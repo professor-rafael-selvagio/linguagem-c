@@ -1,0 +1,6 @@
+DESAFIO 02 – Operações Matemáticas
+
+Peça dois números inteiros e exiba: - Soma - Subtração - Multiplicação -
+Divisão
+
+Conceitos trabalhados: - Operadores aritméticos - printf e scanf
